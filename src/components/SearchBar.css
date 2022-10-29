@@ -1,0 +1,13 @@
+.searchbar form {
+    display: flex;
+    align-items: center;
+  }
+  .searchbar input {
+    margin-left: 10px;
+  }
+.go{
+    font-size: 30px;
+    margin-left: 5px;
+    color: #4E6C50;
+    cursor: pointer;
+}  
